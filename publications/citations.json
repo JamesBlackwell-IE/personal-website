@@ -1,0 +1,101 @@
+[
+  {
+    "year": 2026,
+    "title": "Two-dimensional shear wave elastography in Fontan-associated liver disease: a narrative review",
+    "authors": "Mohamed Abdulla, Maryam Abdulla, Hakima Al-Hashimi, Zakariya Hubail, Hasan M. Isa, Neale Kalis, Kevin Dunne, James Blackwell",
+    "journal": "Abdominal Radiology",
+    "doi": "10.1007/s00261-026-05701-z",
+    "source_filename": "Fontan Review Article 2026(4).pdf",
+    "pdf_filename": "fontan-elastography-review-2026.pdf"
+  },
+  {
+    "year": 2026,
+    "title": "Discordant 2D shear wave elastography values in post-Fontan patients with ascites: a potential interpretive pitfall",
+    "authors": "Mohamed Abdulla, Hakima Al-Hashimi, Neale Kalis, James Blackwell",
+    "journal": "Journal of Ultrasound",
+    "doi": "10.1007/s40477-026-01204-1",
+    "source_filename": "Fontan Case Report 2026(3).pdf",
+    "pdf_filename": "fontan-ascites-case-report-2026.pdf"
+  },
+  {
+    "year": 2026,
+    "title": "First-trimester ophthalmic artery Doppler for prediction of early-onset and preterm preeclampsia: a systematic review and critical appraisal",
+    "authors": "Shayma Ali, Zoha Mustafa, Hanna Jibran, Raaya Kooveri, Suchita D’Silva, Uwe Torsten, James Blackwell",
+    "journal": "BMC Pregnancy and Childbirth",
+    "doi": "10.1186/s12884-026-09618-9",
+    "source_filename": "OA Doppler Preeclampsia2026(1).pdf",
+    "pdf_filename": "ophthalmic-artery-doppler-review-2026.pdf"
+  },
+  {
+    "year": 2026,
+    "title": "Enhancing Biocompatibility and Biophysical Properties of Three-Dimensional Collagen Scaffolds Using Nonthermal Plasma Treatment",
+    "authors": "Noof Sulaiman, Mohamed Abdulla, Priya Das, Praveen Kumar Manyam, James Blackwell, Matthew McGrath, Roshan Deen, Andy Ma, Fergal J. O’Brien, Micheal B. Keogh",
+    "journal": "ACS Biomaterials Science & Engineering, 12, 1776–1786",
+    "doi": "10.1021/acsbiomaterials.5c02062",
+    "source_filename": "Collagen Scaffold Study 2026.pdf",
+    "pdf_filename": "collagen-scaffolds-plasma-2026.pdf"
+  },
+  {
+    "year": 2025,
+    "title": "Utilization of Shear Wave Elastography in the Evaluation of Pediatric Liver Transplant: A Prospective Case-Controlled Study",
+    "authors": "Hasan M. Isa, Mohamed Abdulla, Maryam Abdulla, Hakima Al-Hashimi, Kevin Dunne, James Blackwell",
+    "journal": "Pediatric Transplantation, 29, e70120",
+    "doi": "10.1111/petr.70120",
+    "source_filename": "Liver Transplant SWE Study 2025(2).pdf",
+    "pdf_filename": "pediatric-liver-transplant-study-2025.pdf"
+  },
+  {
+    "year": 2025,
+    "title": "Two-Dimensional Shear Wave Ultrasound Elastography for Monitoring Pediatric Liver Transplantation: A Review of Recent Advances",
+    "authors": "Mohamed Abdulla, Maryam Abdulla, Hakima Al-Hashimi, Hasan M. Isa, Kevin Dunne, James Blackwell",
+    "journal": "Pediatric Transplantation, 29, e70010",
+    "doi": "10.1111/petr.70010",
+    "source_filename": "Liver Transplant SWE Review 2024(2).pdf",
+    "pdf_filename": "pediatric-liver-transplant-review-2025.pdf"
+  },
+  {
+    "year": 2023,
+    "title": "Canceling the elastic Poynting effect with geometry",
+    "authors": "M. Destrade, Y. Du, J. Blackwell, N. Colgan, V. Balbi",
+    "journal": "Physical Review E, 107, L053001",
+    "doi": "10.1103/PhysRevE.107.L053001",
+    "source_filename": "Canceling the elastic Poynting effect with geometry 2023.pdf",
+    "pdf_filename": "canceling-poynting-effect-2023.pdf"
+  },
+  {
+    "year": 2022,
+    "title": "Proton Resonance Frequency Shift Thermometry: A Review of Modern Clinical Practices",
+    "authors": "James Blackwell, Marcin J. Kraśny, Aoife O’Brien, Keyoumars Ashkan, Josette Galligan, Michel Destrade, Niall Colgan",
+    "journal": "Journal of Magnetic Resonance Imaging, 55, 389–403",
+    "doi": "10.1002/jmri.27446",
+    "source_filename": "PRF Review article 2022.pdf",
+    "pdf_filename": "prf-thermometry-review-2022.pdf"
+  },
+  {
+    "year": 2020,
+    "title": "The Poynting effect",
+    "authors": "Giuseppe Zurlo, James Blackwell, Niall Colgan, Michel Destrade",
+    "journal": "American Journal of Physics, 88(12)",
+    "doi": "10.1119/10.0001997",
+    "source_filename": "The Poynting Effect 2020.pdf",
+    "pdf_filename": "poynting-effect-2020.pdf"
+  },
+  {
+    "year": 2019,
+    "title": "Comparison of Planer Dose Equilibrium and Computed Tomography Dose Index and Implications for Reported Patient Dose Information",
+    "authors": "Ahmad Albngali, Joshua Deslongchamps, James Blackwell, Andy Shearer, Brendan Tuohy, Niall Colgan",
+    "journal": "Open Journal of Medical Imaging, 9, 43–51",
+    "doi": "10.4236/ojmi.2019.94004",
+    "source_filename": "Comparison_of_Planer_Dose_Equilibrium_2019.pdf",
+    "pdf_filename": "ct-dose-equilibrium-2019.pdf"
+  },
+  {
+    "year": 2019,
+    "title": "Experimental assessment of clinical MRI-induced global SAR distributions in head phantoms",
+    "authors": "J. Blackwell, G. Oluniran, B. Tuohy, M. Destrade, M. J. Kraśny, N. Colgan",
+    "journal": "Physica Medica, 66, 113–118",
+    "doi": "10.1016/j.ejmp.2019.09.242",
+    "source_filename": "MRI SAR Distribution Head Phantoms 2019.pdf",
+    "pdf_filename": "mri-sar-head-phantoms-2019.pdf"
+  }
+]
